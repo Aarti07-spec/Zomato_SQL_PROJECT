@@ -22,7 +22,7 @@ zomato_analysis.sql – SQL queries for cleaning and analysis<br>
 README.md – Project overview, insights & documentation<br>
 
 
-### 🗃️ Data Sources <br>
+## 🗃️ Data Sources <br>
 Note: All data is fictional and created for learning purposes.
 <br>
 customers_data.csv = https://github.com/Aarti07-spec/Zomato_SQL_PROJECT/blob/main/customer_data_P2.csv
@@ -92,7 +92,7 @@ Attributes:<br>
 customer_name: Name of the customer<br>
 reg_date: Date the customer registered<br>
 #### 🧩 Relationship:
-<br>One customer can place many orders.<br>
+One customer can place many orders.<br>
 Connected to orders via foreign key customer_id.
 
 #### 2. Restaurants Table
