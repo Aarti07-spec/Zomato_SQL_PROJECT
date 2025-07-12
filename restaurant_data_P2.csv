@@ -1,0 +1,101 @@
+restaurant_id,restaurant_name,city,opening_hours
+1,Cafe Delhi Heights,Bengaluru,10:00 AM - 11:00 PM
+2,Perch Wine & Coffee Bar,Delhi,"12:30 PM - 3:30 PM, 7:30 PM - 12:30 AM"
+3,The Only Place,Bengaluru,10:00 AM - 11:00 PM
+4,Vidyarthi Bhavan,Mumbai,10:00 AM - 11:00 PM
+5,Brahmin’s Coffee Bar,Delhi,12:00 PM - 12:00 AM
+6,Bukhara,Bengaluru,8:00 AM - 10:00 PM
+7,SodaBottleOpenerWala,Delhi,9:00 AM - 12:00 AM
+8,Farzi Cafe,Delhi,12:00 PM - 12:00 AM
+9,Bademiya,Bengaluru,"6:30 AM - 11:00 AM, 12:30 PM - 8:30 PM"
+10,MTR,Mumbai,12:00 PM - 11:00 PM
+11,Gajalee,Mumbai,11:00 AM - 11:00 PM
+12,The Fatty Bao,Mumbai,"12:00 PM - 3:00 PM, 7:00 PM - 11:00 PM"
+13,Saravana Bhavan,Mumbai,12:00 PM - 12:00 AM
+14,Masala Library,Bengaluru,"12:00 PM - 3:00 PM, 7:00 PM - 11:00 PM"
+15,Imly,Mumbai,10:00 AM - 11:00 PM
+16,Moti Mahal,Mumbai,"6:30 AM - 11:00 AM, 12:30 PM - 8:30 PM"
+17,The Big Chill Cafe,Mumbai,"12:00 PM - 3:00 PM, 7:00 PM - 11:00 PM"
+18,Perch Wine & Coffee Bar,Mumbai,10:00 AM - 11:00 PM
+19,The Fatty Bao,Delhi,"12:30 PM - 3:30 PM, 7:30 PM - 12:30 AM"
+20,The Big Chill Cafe,Delhi,10:00 AM - 11:00 PM
+21,MTR,Mumbai,9:00 AM - 12:00 AM
+22,Gulati,Delhi,11:00 AM - 11:00 PM
+23,Yauatcha,Mumbai,11:00 AM - 11:00 PM
+24,Truffles,Delhi,"12:00 PM - 3:00 PM, 7:00 PM - 11:00 PM"
+25,The 13th Floor,Delhi,6:00 PM - 3:00 AM
+26,Moti Mahal,Mumbai,"12:00 PM - 3:00 PM, 7:00 PM - 11:00 PM"
+27,Farzi Cafe,Delhi,12:00 PM - 12:00 AM
+28,Empire Restaurant,Delhi,6:00 PM - 3:00 AM
+29,Moti Mahal,Delhi,12:00 PM - 12:00 AM
+30,Windmills Craftworks,Bengaluru,6:00 PM - 3:00 AM
+31,Nagarjuna,Mumbai,10:00 AM - 11:00 PM
+32,Lodi - The Garden Restaurant,Bengaluru,12:00 PM - 12:00 AM
+33,Bademiya,Delhi,12:00 PM - 11:00 PM
+34,Indian Accent,Delhi,6:00 PM - 3:00 AM
+35,Nagarjuna,Delhi,"6:30 AM - 11:00 AM, 12:30 PM - 8:30 PM"
+36,Sagar Ratna,Delhi,"6:30 AM - 11:00 AM, 12:30 PM - 8:30 PM"
+37,Indigo,Mumbai,"6:30 AM - 11:00 AM, 12:30 PM - 8:30 PM"
+38,Toit,Bengaluru,9:00 AM - 12:00 AM
+39,Nagarjuna,Delhi,8:00 AM - 10:00 PM
+40,SodaBottleOpenerWala,Mumbai,"12:30 PM - 3:30 PM, 7:30 PM - 12:30 AM"
+41,Empire Restaurant,Bengaluru,"12:30 PM - 3:30 PM, 7:30 PM - 12:30 AM"
+42,Vidyarthi Bhavan,Delhi,10:00 AM - 11:00 PM
+43,Olive Bar & Kitchen,Delhi,6:00 PM - 3:00 AM
+44,Britannia & Co.,Bengaluru,8:00 AM - 10:00 PM
+45,Koshy’s,Delhi,9:00 AM - 12:00 AM
+46,The Big Chill Cafe,Mumbai,6:00 PM - 3:00 AM
+47,Empire Restaurant,Mumbai,8:00 AM - 10:00 PM
+48,Indigo,Mumbai,"6:30 AM - 11:00 AM, 12:30 PM - 8:30 PM"
+49,Perch Wine & Coffee Bar,Delhi,"12:30 PM - 3:30 PM, 7:30 PM - 12:30 AM"
+50,Farzi Cafe,Mumbai,"6:30 AM - 11:00 AM, 12:30 PM - 8:30 PM"
+51,The Bombay Canteen,Delhi,11:00 AM - 11:00 PM
+52,Ebony,Mumbai,12:00 PM - 12:00 AM
+53,Ebony,Mumbai,10:00 AM - 11:00 PM
+54,Leopold Cafe,Mumbai,"6:30 AM - 11:00 AM, 12:30 PM - 8:30 PM"
+55,Punjabi By Nature,Delhi,"12:00 PM - 3:00 PM, 7:00 PM - 11:00 PM"
+56,Indigo,Mumbai,11:00 AM - 11:00 PM
+57,Mahesh Lunch Home,Bengaluru,12:00 PM - 12:00 AM
+58,Nagarjuna,Bengaluru,"6:30 AM - 11:00 AM, 12:30 PM - 8:30 PM"
+59,Nagarjuna,Bengaluru,"6:30 AM - 11:00 AM, 12:30 PM - 8:30 PM"
+60,The Bombay Canteen,Delhi,6:00 PM - 3:00 AM
+61,Farzi Cafe,Mumbai,11:00 AM - 11:00 PM
+62,Masala Library,Delhi,6:00 PM - 3:00 AM
+63,Britannia & Co.,Mumbai,12:00 PM - 12:00 AM
+64,Corner House,Delhi,6:00 PM - 3:00 AM
+65,The Oberoi,Delhi,"12:30 PM - 3:30 PM, 7:30 PM - 12:30 AM"
+66,Indian Accent,Delhi,8:00 AM - 10:00 PM
+67,Meghana Foods,Delhi,11:00 AM - 11:00 PM
+68,Indigo,Delhi,11:00 AM - 11:00 PM
+69,Windmills Craftworks,Delhi,9:00 AM - 12:00 AM
+70,Bukhara,Delhi,"6:30 AM - 11:00 AM, 12:30 PM - 8:30 PM"
+71,Perch Wine & Coffee Bar,Mumbai,8:00 AM - 10:00 PM
+72,MTR,Delhi,12:00 PM - 11:00 PM
+73,Brahmin’s Coffee Bar,Bengaluru,11:00 AM - 11:00 PM
+74,Cafe Delhi Heights,Delhi,12:00 PM - 12:00 AM
+75,Brahmin’s Coffee Bar,Bengaluru,10:00 AM - 11:00 PM
+76,The 13th Floor,Delhi,8:00 AM - 10:00 PM
+77,Diggin,Delhi,12:00 PM - 12:00 AM
+78,Koshy’s,Delhi,6:00 PM - 3:00 AM
+79,The Hole in the Wall Cafe,Mumbai,11:00 AM - 11:00 PM
+80,Olive Bar & Kitchen,Bengaluru,12:00 PM - 12:00 AM
+81,Ebony,Delhi,"12:30 PM - 3:30 PM, 7:30 PM - 12:30 AM"
+82,Punjabi By Nature,Delhi,"12:30 PM - 3:30 PM, 7:30 PM - 12:30 AM"
+83,The Fatty Bao,Bengaluru,8:00 AM - 10:00 PM
+84,Ebony,Delhi,8:00 AM - 10:00 PM
+85,Empire Restaurant,Bengaluru,10:00 AM - 11:00 PM
+86,Punjabi By Nature,Bengaluru,8:00 AM - 10:00 PM
+87,Farzi Cafe,Delhi,10:00 AM - 11:00 PM
+88,Corner House,Bengaluru,11:00 AM - 11:00 PM
+89,Gajalee,Mumbai,9:00 AM - 12:00 AM
+90,Punjabi By Nature,Delhi,12:00 PM - 12:00 AM
+91,Perch Wine & Coffee Bar,Bengaluru,6:00 PM - 3:00 AM
+92,Imly,Delhi,12:00 PM - 11:00 PM
+93,Perch Wine & Coffee Bar,Mumbai,"12:30 PM - 3:30 PM, 7:30 PM - 12:30 AM"
+94,Bademiya,Mumbai,8:00 AM - 10:00 PM
+95,Mahesh Lunch Home,Mumbai,8:00 AM - 10:00 PM
+96,The Big Chill Cafe,Bengaluru,"6:30 AM - 11:00 AM, 12:30 PM - 8:30 PM"
+97,Masala Library,Mumbai,"6:30 AM - 11:00 AM, 12:30 PM - 8:30 PM"
+98,Saravana Bhavan,Delhi,8:00 AM - 10:00 PM
+99,Gajalee,Delhi,"12:00 PM - 3:00 PM, 7:00 PM - 11:00 PM"
+100,The Fatty Bao,Bengaluru,9:00 AM - 12:00 AM

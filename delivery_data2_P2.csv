@@ -1,0 +1,71 @@
+delivery_id,order_id,delivery_stat,delivery_time,rider_id
+1,8476,Order,3:09:26,10
+2,7949,Order,4:04:26,4
+3,8546,Order,20:03:00,4
+4,6232,Order,8:25:31,11
+5,6090,Not Delivered,5:45:52,7
+6,7960,Order,13:53:02,4
+7,6255,Order,1:41:24,8
+8,6710,Not Delivered,8:18:36,6
+9,7272,Delivered,0:22:04,14
+10,1073,Not Delivered,12:49:25,9
+11,4334,Order,19:35:01,6
+12,5930,Order,17:37:56,10
+13,8450,Not Delivered,6:21:20,5
+14,7087,Not Delivered,10:43:57,5
+15,7924,Order,18:58:33,7
+16,3589,Not Delivered,20:11:38,11
+17,1837,Not Delivered,7:06:16,11
+18,7330,Order,22:53:13,5
+19,6592,Order,17:21:52,8
+20,7521,Delivered,7:40:43,14
+21,1626,Delivered,22:40:13,6
+22,6091,Delivered,14:31:43,9
+23,3364,Not Delivered,1:03:01,11
+24,8912,Delivered,16:49:07,4
+25,2288,Not Delivered,10:16:26,11
+26,8296,Delivered,9:42:26,9
+27,4939,Delivered,0:36:01,15
+28,1504,Not Delivered,6:37:12,9
+29,4384,Order,22:32:23,15
+30,4939,Not Delivered,2:29:33,11
+31,1253,Delivered,6:27:28,8
+32,4430,Order,14:28:33,4
+33,8615,Order,8:33:14,13
+34,2186,Delivered,17:09:35,14
+35,2573,Not Delivered,2:26:59,10
+36,2191,Not Delivered,17:03:53,3
+37,9681,Not Delivered,20:12:17,10
+38,5049,Order,5:08:07,3
+39,1166,Delivered,23:25:28,6
+40,1941,Delivered,3:03:42,14
+41,4990,Order,7:42:29,6
+42,7801,Not Delivered,22:23:11,7
+43,2723,Order,3:04:39,14
+44,4057,Not Delivered,20:02:14,4
+45,5463,Order,12:30:52,6
+46,1220,Order,15:18:13,11
+47,8516,Not Delivered,17:51:06,12
+48,5376,Delivered,10:24:17,10
+49,5652,Not Delivered,16:36:52,7
+50,3032,Not Delivered,3:44:44,7
+51,4006,Not Delivered,20:45:37,12
+52,4191,Not Delivered,7:36:58,13
+53,8132,Order,15:49:21,3
+54,3778,Delivered,3:21:17,13
+55,5906,Not Delivered,15:25:11,1
+56,8653,Order,2:36:32,2
+57,2227,Not Delivered,18:49:18,4
+58,6593,Not Delivered,8:00:02,5
+59,7287,Order,0:46:42,13
+60,8077,Delivered,15:11:33,15
+61,5781,Not Delivered,1:42:57,14
+62,5904,Not Delivered,12:56:15,4
+63,6222,Delivered,7:14:43,12
+64,3531,Not Delivered,21:49:18,12
+65,1616,Order,23:38:40,8
+66,8796,Not Delivered,15:55:25,1
+67,8667,Delivered,15:37:47,6
+68,8360,Not Delivered,23:23:23,14
+69,9861,Not Delivered,4:07:10,7
+70,2513,Order,1:49:33,2
