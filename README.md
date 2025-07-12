@@ -134,7 +134,6 @@ delivery_status: e.g., Delivered, Failed<br>
 delivery_time: When it was delivered
 
 #### 🧩 Relationships:
-
 Links orders to riders<br>
 Each delivery is fulfilled by one rider<br>
 Some orders may not have a delivery (e.g., cancelled)
@@ -148,17 +147,15 @@ sign_up_date: When rider joined
 <br>
 ##### 🧩 Relationship:
 <br>
-One rider can complete many deliveries
-<br>
-Connected to deliveries via rider_id
-<br>
+One rider can complete many deliveries<br>
+Connected to deliveries via rider_id <br>
 
 ##### 🔗 Summary of Relationships
-Entity	Related Entity	Relationship Type
-Customers	Orders	1-to-Many (1 customer → many orders)
-Restaurants	Orders	1-to-Many (1 restaurant → many orders)
-Orders	Deliveries	1-to-1 or 1-to-None (not all orders delivered)
-Deliveries	Riders	Many-to-1 (many deliveries → 1 rider)
+Entity	Related Entity	Relationship Type<br>
+Customers	Orders	1-to-Many (1 customer → many orders)<br>
+Restaurants	Orders	1-to-Many (1 restaurant → many orders)<br>
+Orders	Deliveries	1-to-1 or 1-to-None (not all orders delivered)<br>
+Deliveries	Riders	Many-to-1 (many deliveries → 1 rider)<br>
 
 ### 🔍 Use Cases Enabled by This Schema
 Track total revenue and top dishes by restaurant or city<br>
