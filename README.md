@@ -30,15 +30,15 @@ README.md – Project overview, insights & documentation
 ### 🗃️ Data Sources
 Note: All data is fictional and created for learning purposes.
 
-customers.csv = https://github.com/Aarti07-spec/Zomato_SQL_PROJECT/blob/main/customer_data_P2.csv
+customers_data.csv = https://github.com/Aarti07-spec/Zomato_SQL_PROJECT/blob/main/customer_data_P2.csv
 
-restaurants.csv
+restaurants_data.csv = https://github.com/Aarti07-spec/Zomato_SQL_PROJECT/blob/main/restaurant_data_P2.csv
 
-orders.csv
+orders_data.csv = https://github.com/Aarti07-spec/Zomato_SQL_PROJECT/blob/main/order_data_P2.csv
 
-deliveries.csv
+deliveries.csv = https://github.com/Aarti07-spec/Zomato_SQL_PROJECT/blob/main/delivery_data2_P2.csv
 
-riders.csv
+riders.csv = github.com/Aarti07-spec/Zomato_SQL_PROJECT/blob/main/Riders_data_P2.csv
 
 ## 🛠️ Schema Design
 The database consists of 5 main tables:
@@ -63,6 +63,8 @@ Removed incomplete or NULL records (e.g. in Riders and Deliveries)
 Ensured foreign key dependencies were properly mapped
 
 ## 📊 Key SQL Analyses & Use Cases
+Check Out SQL File: https://github.com/Aarti07-spec/Zomato_SQL_PROJECT/blob/main/zomato_SQL_Project.sql
+
 ### 1. Customer Behavior
 🥇 Top Ordered Dishes by Customer: Found most frequent dish by Arjun Mehta over the past year.
 
@@ -108,7 +110,7 @@ Ensured foreign key dependencies were properly mapped
 ## 📘 Entity-Relationship Diagram (ERD) Explanation
 This ERD models a food delivery ecosystem with 5 main entities:
 
-📌 *See full ERD in [`erd/zomato_erd.png`](./erd/zomato_erd.png)*
+📌 *See full ERD in [`[erd/zomato_erd.png`](./erd/zomato_erd.png](https://github.com/Aarti07-spec/Zomato_SQL_PROJECT/blob/main/Zomato_ERD.png))*
 
 
 #### 1. Customers Table
@@ -247,3 +249,27 @@ Business insights via analytical queries
 
 Schema design and normalization
 
+## 🔚 Conclusion
+This project provided a comprehensive understanding of how a food delivery ecosystem operates from a data perspective. By working with relational databases, crafting optimized SQL queries, and analyzing real-world-like delivery metrics, I learned how to derive actionable insights that can support both business decisions and operational improvements.
+
+#### Key takeaways include:
+
+The importance of clean and connected data across multiple entities
+
+How customer behavior can directly influence delivery logistics
+
+The power of SQL in uncovering business intelligence
+
+## 🔄 Next Steps / Future Work (optional)
+Integrate customer reviews and sentiment analysis
+
+Build a machine learning model to predict late deliveries
+
+Add real-time dashboarding using Power BI or Streamlit
+
+Optimize queries for performance on larger datasets
+
+#### 💡 Reflections 
+This project helped bridge my SQL and data visualization skills, pushing me to think not just technically, but also from a business perspective. It simulated a real-world scenario where multiple stakeholders (customers, restaurants, delivery riders) depend on data-driven decisions.
+
+## 🙏 THANK YOU ..
