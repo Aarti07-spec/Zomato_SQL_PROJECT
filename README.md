@@ -15,7 +15,7 @@ SQL (PostgreSQL)
 
 CSV as data source
 
-DBeaver / PgAdmin / MySQL Workbench (optional IDEs)
+PgAdmin / MySQL Workbench (optional IDEs)
 
 ## 📁 Project Structure
 zomato_data.csv – Raw dataset file
@@ -30,7 +30,7 @@ README.md – Project overview, insights & documentation
 ### 🗃️ Data Sources
 Note: All data is fictional and created for learning purposes.
 
-customers.csv
+customers.csv = https://github.com/Aarti07-spec/Zomato_SQL_PROJECT/blob/main/customer_data_P2.csv
 
 restaurants.csv
 
